@@ -1,0 +1,5 @@
+.coverage
+test
+coverage
+swagger
+node_modules
